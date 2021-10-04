@@ -1,0 +1,40 @@
+h1
+{
+    color: rgb(27, 131, 131);
+}
+img
+{
+    width: 400px;
+}
+#thirdDiv
+{
+    height: 600px;
+    width: 500px;
+    background-color: gainsboro;
+    padding: 50px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.divClass
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#spanId
+{
+    font-size: 18px;
+    margin: 50px;
+}
+a
+{
+    font-size: 18px;
+}
+body
+{
+    background-image: url(https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/162076703_132213475573647_7487017658214540194_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=9spsGlBbcAIAX_EXFDR&_nc_ht=scontent.faep24-1.fna&oh=7d1f6de32a0cab60dbcf2a8dc59a65eb&oe=617E4738);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+}
